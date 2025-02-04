@@ -1,1 +1,1 @@
-getgenv().banwaveactive=false
+false
